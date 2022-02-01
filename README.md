@@ -2,7 +2,10 @@
 
 ## Description
 
-This is a small helper app to render HTML content from a specification field. Use at own risk. The app does not prevent broken HTML from being renderd. If you have broken content here, this can kill your website.
+This is a small helper app to render HTML content from a specification field. 
+
+**WARNING: Use at own risk.** 
+The app does not prevent broken HTML from being renderd. If you have broken content here, this can kill your website.
 
 :loudspeaker: **Disclaimer:** Don't fork this project; use, contribute, or open issue with your feature request.
 
