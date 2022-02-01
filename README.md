@@ -37,6 +37,9 @@ Then, you can add a component block into your app theme on your product detail p
     }
   }
 ```
+Be aware: a specification needs to be set to display for the module to pick it up. It listens to the "show specification" attribute of each field.
+
+
 ## CSS handles
 The following CSS handles can be used for styling:
 
