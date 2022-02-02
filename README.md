@@ -16,6 +16,11 @@ The app does not prevent broken HTML from being renderd. If you have broken cont
 
 
 ## Usage
+First of all, install the app on your VTEX toolbelt:
+
+```shell
+vtex install vtex.product-specification-dom@0.x
+````
 
 To use this app, you need to import in your dependencies on `manifest.json`.
 
